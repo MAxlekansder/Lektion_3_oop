@@ -4,8 +4,12 @@ import com.AlexanderLektion3.demo.Model.Students;
 
 public class Main {
 
-    //instansiverar objektet
+    //instansierar objektet
     public static void main(String[] args) {
+
+        System.out.println("ändrar vi något nu?");
+
+        //instantiate object
         Students stud1 = new Students("Benny",16,true);
         Students stud2 = new Students("Frida",13,true);
 
@@ -22,12 +26,6 @@ public class Main {
         } else {
             System.out.println("stud2 är inte trött");
         }
-
-
-
-
-
-
     }
 /*
     public static void main(String[] args) {
