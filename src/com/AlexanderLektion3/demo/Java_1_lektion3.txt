@@ -1,0 +1,65 @@
+Objektorienterad programmering
+Projektstruktur / struktur
+packages
+
+Vad är OOP
+Fördelar
+Return
+This
+Projekt/klass strukturer
+
+om man har en klassattribut/ instansvariabel
+kan vi använda oss av tihs för att kunna behålla variabelns namn i konstruktorn
+Visibility Modifiers - Public / static
+
+return, this och packages
+
+definitioner
+void - null aka nothingness
+
+static - alla referenserpekar på samma plats
+
+
+visibilty & OOP
+Subclasser
+visibility modifier: public / protected / nomod / private
+static exkludera om det inte behövs
+datatypen - void / int / String
+namn - camelCasing
+
+Om man exkluderar public - no modifiers
+det kan strula till det om man använder det som packages och går inte att köra i subclass
+
+vad kan objekt göra / vad kanman använda det till
+
+
+New class!
+Instansiering
+kallas skapandet av ett objekt från en klass
+
+Konstruktor
+är en metod med samma namn som klassen
+
+Konstruktorn låter oss tilldela ett värde direkt när vi instansierar ett nytt objekt.
+
+Att skapa en klass är bra och början till OOP
+Single source of Truth
+Dynamiskt arbete
+unika 'subclasses' från parent / instanser av parent
+
+parent föder instanser -> har vi en ny variabel i parent, ärver instanser/child det
+
+Hur ska vi strukturera våra klasser
+
+packages och structure
+
+this: context
+smidigt nyckelord som kan specifiera 'vilken' variabel viska använda oss av.
+
+
+Create a for-loop
+generera 5 students med unika åldrar
+
+
+
+
